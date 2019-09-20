@@ -1,0 +1,18 @@
+*, *:after, *:before {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    background-color: #dffc00;
+}
+
+.heading, .paragraph {
+    color: #939344;
+}
+
+.image_container {
+    width: 300px
+}
